@@ -61,7 +61,7 @@ I want to keep learning more about Flexbox to improve element spacing and alignm
 ## Author
 
 - GitHub - [Angel Martinez](https://github.com/M6AngelMartinez)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/M6AngelMartinez)
+- Frontend Mentor - [@@M6AngelMartinez](https://www.frontendmentor.io/profile/M6AngelMartinez)
 - Instagram - [@amnez_m6](https://www.instagram.com/amnez_m6/)
 
 
