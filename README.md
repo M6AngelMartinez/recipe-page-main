@@ -31,7 +31,7 @@ this is a solution to the "recipe page main" challenge created for "Frontend Men
 ### Links
 
 - Solution URL: [solution](https://github.com/M6AngelMartinez/recipe-page-main.git)
-- Live Site URL: [live](https://your-live-site-url.com)
+- Live Site URL: [live](https://m6angelmartinez.github.io/recipe-page-main/)
 
 
 ## My process
